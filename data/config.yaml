@@ -1,0 +1,22 @@
+database_url:
+
+expire_time:
+
+user-agent:
+
+telegraph_access_token:
+
+notify_tg_chat_id:
+
+telegram:
+  token:
+  chat_id:
+  disable_notification:
+  disable_web_page_preview:
+  parse_mode:
+
+mastodon:
+  base_url:
+  client_id:
+  client_secret:
+  authorization_code:
