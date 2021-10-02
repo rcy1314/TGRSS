@@ -1,4 +1,4 @@
-database_url:
+database_url: noise.mnt9p.mongodb.net
 
 expire_time:
 
@@ -9,8 +9,8 @@ telegraph_access_token:
 notify_tg_chat_id:
 
 telegram:
-  token:
-  chat_id:
+  token: 1553564139:AAHeTAl0LfqkOlHHWCVQHPglqOPsqQ3C7oM
+  chat_id: -1001436520490
   disable_notification:
   disable_web_page_preview:
   parse_mode:
